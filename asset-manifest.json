@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/camper-for-rent/static/css/main.48b24f47.css",
+    "main.js": "/camper-for-rent/static/js/main.713a8478.js",
+    "static/js/168.4d184741.chunk.js": "/camper-for-rent/static/js/168.4d184741.chunk.js",
+    "static/media/Autocamperplads.jpg": "/camper-for-rent/static/media/Autocamperplads.41d1fa3ea1a2d2a0c1f9.jpg",
+    "index.html": "/camper-for-rent/index.html",
+    "main.48b24f47.css.map": "/camper-for-rent/static/css/main.48b24f47.css.map",
+    "main.713a8478.js.map": "/camper-for-rent/static/js/main.713a8478.js.map",
+    "168.4d184741.chunk.js.map": "/camper-for-rent/static/js/168.4d184741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b24f47.css",
+    "static/js/main.713a8478.js"
+  ]
+}
