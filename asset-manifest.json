@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/camper-for-rent/static/css/main.48b24f47.css",
-    "main.js": "/camper-for-rent/static/js/main.713a8478.js",
-    "static/js/168.4d184741.chunk.js": "/camper-for-rent/static/js/168.4d184741.chunk.js",
-    "static/media/Autocamperplads.jpg": "/camper-for-rent/static/media/Autocamperplads.41d1fa3ea1a2d2a0c1f9.jpg",
+    "main.css": "/camper-for-rent/static/css/main.0d630846.css",
+    "main.js": "/camper-for-rent/static/js/main.bc4227f1.js",
+    "static/js/455.d88a9997.chunk.js": "/camper-for-rent/static/js/455.d88a9997.chunk.js",
+    "static/js/963.849279cd.chunk.js": "/camper-for-rent/static/js/963.849279cd.chunk.js",
+    "static/media/welcome.jpg": "/camper-for-rent/static/media/welcome.7d1dd7b74281f5bc898e.jpg",
     "index.html": "/camper-for-rent/index.html",
-    "main.48b24f47.css.map": "/camper-for-rent/static/css/main.48b24f47.css.map",
-    "main.713a8478.js.map": "/camper-for-rent/static/js/main.713a8478.js.map",
-    "168.4d184741.chunk.js.map": "/camper-for-rent/static/js/168.4d184741.chunk.js.map"
+    "main.0d630846.css.map": "/camper-for-rent/static/css/main.0d630846.css.map",
+    "main.bc4227f1.js.map": "/camper-for-rent/static/js/main.bc4227f1.js.map",
+    "455.d88a9997.chunk.js.map": "/camper-for-rent/static/js/455.d88a9997.chunk.js.map",
+    "963.849279cd.chunk.js.map": "/camper-for-rent/static/js/963.849279cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48b24f47.css",
-    "static/js/main.713a8478.js"
+    "static/css/main.0d630846.css",
+    "static/js/main.bc4227f1.js"
   ]
 }
