@@ -1,9 +1,12 @@
-import { Container } from './HomePage.styled';
+import { Container, Title, LinkStyled, Block } from './HomePage.styled';
 
 const HomePage = () => {
   return (
     <Container>
-      <h1>Rent of campers in Ukraine</h1>
+      <Block>
+        <Title>Rent of campers in Ukraine</Title>
+        <LinkStyled to="/catalog">to view the catagogue click here</LinkStyled>
+      </Block>
     </Container>
   );
 };

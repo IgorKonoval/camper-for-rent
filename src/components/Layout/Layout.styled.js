@@ -3,13 +3,13 @@ import styled from 'styled-components';
 export const Container = styled.div`
   //   padding-left: 40px;
   //   padding-right: 40px;
-  display: flex;
+  /* display: flex;
   margin: 0 auto;
-  justify-content: space-between;
+  justify-content: space-between; */
 
   /* max-width: 375px; */
 
-  @media screen and (min-width: 768px) {
+  /* @media screen and (min-width: 768px) {
     max-width: 768px;
     // padding-left: 32px;
     // padding-right: 32px;
@@ -19,5 +19,5 @@ export const Container = styled.div`
     max-width: 1440px;
     //     padding-left: 85px;
     //     padding-right: 85px;
-  }
+  } */
 `;
